@@ -4,8 +4,9 @@ I show how to detect cars which are parking in a bad place (cycle lane) with yol
 I downloaded .cfg, .weights, and the names from here: https://github.com/smarthomefans/darknet-test/tree/master
 
 Some example before detection:
+![image info](./BiciklisfutarAutotKerul.jpg)
 
-![image info](./FinallyCarIsInWrongPlace.png)
 
 After processing (within black line it is frobidden for a car to be, (cycle lane)
-![image info](./BiciklisfutarAutotKerul.jpg)
+
+![image info](./FinallyCarIsInWrongPlace.png)
